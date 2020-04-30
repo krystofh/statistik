@@ -1,6 +1,7 @@
 # Statistik I - Übungsaufgaben
 ### TU Dresden, SoSe 2020
-<br><br>
+Übungsaufgaben zu der Lehrveranstaltung, die in Jupyter Notebooks implementiert wurden
+
 ### Aufgabe 1
 ![Aufgabe 1](https://github.com/krystofh/statistik/blob/master/img/Aufgabenstellung1.PNG)
 
