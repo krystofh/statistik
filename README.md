@@ -1,7 +1,8 @@
 # Statistik I - Übungsaufgaben
 ### TU Dresden, SoSe 2020
-Übungsaufgaben zu der Lehrveranstaltung, die in Jupyter Notebooks implementiert wurden
-
+Übungsaufgaben zu der Lehrveranstaltung, die in Jupyter Notebooks implementiert wurden. <br>
+- ![Programmieraufgaben.ipynb](https://github.com/krystofh/statistik/blob/master/Programmieraufgaben.ipynb) enthält die Lösungen 
+- ![Statistik_mit_Python.ipynb](https://github.com/krystofh/statistik/blob/master/Statistik_mit_Python.ipynb) gilt als Python-Nachschlagewerk
 ### Aufgabe 1
 ![Aufgabe 1](https://github.com/krystofh/statistik/blob/master/img/Aufgabenstellung1.PNG)
 
